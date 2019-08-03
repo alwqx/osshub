@@ -1,2 +1,2 @@
-# osshub
-use GitHub repo as oss
+# OSSHub
+use GitHub repo as oss services.
